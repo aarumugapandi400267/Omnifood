@@ -359,7 +359,7 @@ table{
     display: none;
 }
 @media screen and (width<1400px){
-    body{
+    .main{
         display: none;
     }
     .alert{
