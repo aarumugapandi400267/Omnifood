@@ -358,11 +358,12 @@ table{
 .alert{
     display: none;
 }
-@media screen and (width<767px){
+@media screen and (width<1400px){
     .main{
         display: none;
     }
     .alert{
-        display:block
+        display:block;
+        text-align: center;
     }
 }
